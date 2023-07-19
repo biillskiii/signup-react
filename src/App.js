@@ -1,9 +1,7 @@
 import Signup from "./components/Signup.tsx";
 
 function App() {
-  return (
-    <Signup />
-  );
+  return <Signup />;
 }
 
 export default App;
